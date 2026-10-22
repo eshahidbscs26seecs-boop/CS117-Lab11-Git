@@ -1,4 +1,4 @@
-# Storage Estimator - Main Version
+# Storage Estimator - Feature Version
 
 ## Purpose
 This program converts a file size from MB to KB.
