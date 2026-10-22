@@ -1,4 +1,4 @@
 size_mb = float(input("Enter file size in MB: "))
 size_kb = size_mb * 1024
 print("Size in KB:", size_kb, "KB")
-print("Size in GB:", size_mb / 1024, "GB")
+print("Size in GB:", round(size_mb / 1024, 2), "GB")
